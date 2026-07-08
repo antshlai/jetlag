@@ -1,2 +1,54 @@
-﻿location,question,answer,lastvisitdate,lastvisittime,lastvisitname,captured,capturedname
-,,,,,,no,
+no remove before uploading,location,question,answer
+1,Bankstown Station (Train),How many platforms are there at this station?,2
+2,Berowra Station (Train),What native animal is prominently featured on the Hawkesbury River/Berowra track information signs near the station entrance?,A Koala / Lyrebird
+3,Blacktown Station (Train),What major shopping centre is directly connected to the station via a pedestrian footbridge?,Westpoint Blacktown
+4,Bondi Junction Station (Train),What colour are the large structural columns supporting the roof over the bus interchange directly above the platforms?,Yellow / Grey
+5,Cabramatta Station (Train),What unique decorative element (representing the local cultural community) is built into the street-level entrance gate/archway just outside the station?,Pai Lau / Chinese Gateway / Stone Lions
+6,Campbelltown Station (Train),Is the main station concourse/ticket gate area located underground at ground level or on an elevated overpass structure?,Elevated overpass structure
+7,Capitol Square Light Rail (Light rail),What historical brick heritage building facade stands directly adjacent to this light rail platform?,Capitol Theatre
+8,Central Chalmers Street Light Rail (Light rail),How many light rail tracks run directly parallel through the Chalmers Street light rail platform area?,2
+9,Central Grand Concourse Light Rail (Light rail),What large historic analog clock hangs high above the main train terminal entrance directly adjacent to this stop?,The Central Station Grand Concourse Clock
+10,Central Station (Metro Shared),On the brand new underground Metro platforms what distinct color or material is used for the large wall panels lining the escalators?,Perforated grey/silver metal panels
+11,Chatswood Station (Metro Shared),Which two specific transport networks share a cross-platform interchange on platforms 3 and 4 here?,Sydney Trains and Sydney Metro
+12,Chinatown Light Rail (Light rail),What is the name of the main pedestrianized retail street intersecting directly with this light rail stop?,Hay Street
+13,Circular Quay Light Rail (Light rail),What iconic heritage sandstone building sits directly behind the light rail stop on the south side of Alfred Street?,Customs House
+14,Circular Quay Station (Train),Look out towards the water from platforms 1 and 2: what specific number is assigned to the ferry wharf directly in front of the center of the station?,Wharf 4 / Wharf 3
+15,Cronulla Station (Train),What unique design feature distinguishes Cronulla's platform from almost all other Sydney stations?,It has an exceptionally long single platform split into two sections (Platform 1 and 2 end-to-end)
+16,Domestic Station (Train),Which specific airline terminal at Sydney Airport is directly linked to this station's exit?,Terminal 2 & 3 (Qantas / Virgin / Jetstar Domestic)
+17,Dulwich Hill Light Rail (Light rail),What type of transport network does this light rail stop directly interchange with via the adjacent stairs and walkway?,Sydney Trains (T3 Line)
+18,Dulwich Hill Station (Train),What color is the pedestrian footbridge that crosses over the train tracks to link the train and light rail platforms?,Blue / Grey
+19,East Hills Station (Train),What river parkland is located a short walk directly south of the station down Park Road?,Georges River / East Hills Park
+20,Emu Plains Station (Train),Look at the platform signs: What is the official name of the next station heading further west (away from Sydney city)?,Lapstone
+21,Epping Station (Metro Shared),How many extremely long escalators must you ride to travel directly between the underground Metro concourse and the surface platforms?,3
+22,Glenfield Station (Train),How many distinct platform faces/edges are available for passenger trains at this junction station?,4
+23,Gordon Station (Train),What historic material (often found on heritage North Shore stations) forms the main structure of the Gordon station buildings?,Red Brick
+24,Hornsby Station (Train),What large unique outdoor sculptural feature sits right outside the station plaza on the west side?,The Hornsby Water Clock / Fountain
+25,Hurstville Station (Train),What major commercial structure is built completely directly above the Hurstville railway station platforms?,Hurstville Central Shopping Centre
+26,International Station (Train),What is the name of the airport terminal directly accessed via the gates of this station?,Terminal 1 (International Terminal)
+27,Juniors Kingsford Light Rail (Light rail),What shape is the large roundabout intersection/plaza configuration where this light rail line terminates?,A large multi-way roundabout / triangle intersection
+28,Leppington Station (Train),Is the main passenger car park located on the north side or the south side of the station tracks?,South side
+29,Lidcombe Station (Train),Platform 0 at Lidcombe station is uniquely dedicated to a shuttle service running to which specific destination?,Olympic Park
+30,Liverpool Station (Train),What is the name of the major bus transitway lane system that terminates directly at the Liverpool station interchange?,T-way
+31,Macarthur Station (Train),What large retail shopping precinct sits directly across the road from the station entrance?,Macarthur Square
+32,Martin Place Station (Metro Shared),What distinctive stone material lines the walls of the original Martin Place underground train platforms?,Green/Grey terrazzo tiles / Marble look
+33,Museum Station (Train),What iconic preserved hand-painted historic advertisement sign can be found uncovered on the pedestrian subway walls?,Mark Foy's sign
+34,North Sydney Station (Train),What commercial corporate high-rise complex sits directly over the top of North Sydney station?,Greenwood Plaza
+35,Olympic Park Station (Train),How many large structural steel roof canopies shape the unique design above the Olympic Park platforms?,2 large curved vault canopies
+36,Parramatta Station (Train),What major pedestrianized retail strip/mall connects directly to the northern exit of Parramatta Station?,Church Street Mall / Centenary Square
+37,Penrith Station (Train),What major sports stadium/home ground of the Penrith Panthers is a short walk down Station Street?,BlueBet Stadium / Penrith Stadium
+38,Randwick Light Rail (Light rail),What major medical complex sits directly across High Street from the Randwick light rail terminus?,Prince of Wales Hospital / Sydney Children's Hospital
+39,Redfern Station (Train),What is the number of the newly constructed fully accessible southern concourse pedestrian bridge?,Platforms 1-12 link
+40,Regents Park Station (Train),Which two railway lines or directions split immediately to the west of Regents Park station?,Bankstown line and Liverpool/Cabramatta line
+41,Revesby Station (Train),What massive community and workers club is located directly opposite the northern entrance of the station?,Revesby Workers' Club
+42,Richmond Station (Train),What historic public park/common one of the oldest in Australia sits directly across the street from Richmond station?,Richmond Park
+43,Schofields Station (Train),Is the modern rebuilt Schofields station an elevated station an underground station or a ground-level station?,Ground-level station
+44,Seven Hills Station (Train),What colour are the pedestrian safety railings along the overhead concourse walkway at Seven Hills?,Blue
+45,St James Station (Train),What type of classic green and cream tiles line the historical underground walls of St James station?,Interwar Art Deco ceramic tiles
+46,St Marys Station (Train),St Marys station is currently being built as an interchange for which brand new upcoming Metro line?,Sydney Metro Western Airport Line
+47,Sutherland Station (Train),Which national park-bound branch railway line splits off from the main line just south of Sutherland station?,The Cronulla Branch Line
+48,Sydenham Station (Metro Shared),How many platforms are currently active at Sydenham following the addition of the Metro City & Southwest lines?,6
+49,Tallawong Station (Metro),Is Tallawong station located above ground on a viaduct at ground level or fully underground?,Ground level / open cutting
+50,Town Hall Station (Train),What historic civic building sits directly above the eastern exits of Town Hall station?,Sydney Town Hall
+51,Waterfall Station (Train),What major wilderness national park borders the entire eastern side of Waterfall station?,Royal National Park
+52,Wolli Creek Station (Train),How many levels of train platforms exist at Wolli Creek to separate the Airport line from the Illawarra line?,2 levels (Upper and Lower)
+53,Wynyard Station (Train),What is the name of the famous looping steel-and-wood sculpture suspended from the ceiling above the York Street escalators?,Interloop
