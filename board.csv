@@ -1,0 +1,72 @@
+name,cardname,carddetail,category,icon,used
+match1,Airport,Is your closest airport the same as mine?,matching,fa-solid fa-plane-departure,no
+match2,Station Name Length,Is your closest train station name length the same as mine?,matching,fa-solid fa-train,no
+match3,Train Line,Is your closest train line (either Metro Train TrainLink or Tram) the same as mine?,matching,fa-solid fa-train,no
+match4,Street or Path,Is your closest street or path the same as mine?,matching,fa-solid fa-route,no
+match5,Region A (Suburb),Is your suburb the same as mine?,matching,fa-solid fa-building-flag,no
+match6,Region B (Council),Is your Council area the same as mine?,matching,fa-solid fa-building-flag,no
+match7,Region C (State Electorate),Is your State Electorate area the same as mine?,matching,fa-solid fa-building-flag,no
+match8,Region D (Federal Electorate),Is your Federal Electorate area the same as mine?,matching,fa-solid fa-building-flag,no
+match9,Mountain,Is your closest mountain the same as mine?,matching,fa-solid fa-mountain,no
+match10,National Park,Is your closest National Park the same as mine?,matching,fa-solid fa-tree,no
+match11,Body of Water,Is your closest body of water the same as mine?,matching,fa-solid fa-water,no
+match12,Amusement Park,Is your closest amusement park the same as mine?,matching,fa-solid fa-face-grin,no
+match13,Zoo,Is your closest zoo the same as mine?,matching,fa-solid fa-otter,no
+match14,Aquarium,Is your closest aquarium the same as mine?,matching,fa-solid fa-fish,no
+match15,Golf Course,Is your closest golf course the same as mine?,matching,fa-solid fa-golf-ball-tee,no
+match16,Museum,Is your closest museum the same as mine?,matching,fa-solid fa-building-columns,no
+match17,Cinema,Is your closest cinema the same as mine?,matching,fa-solid fa-film,no
+match18,Hosptial,Is your closest hospital the same as mine?,matching,fa-solid fa-hospital,no
+match19,Library,Is your closest library the same as mine?,matching,fa-solid fa-book-open-reader,no
+match20,Court House,Is your closest court house the same as mine?,matching,fa-solid fa-scale-balanced,no
+measure1,Airport,"Compared to me, are you closer or further from an airport?",measuring,fa-solid fa-plane-departure,no
+measure2,Train Line,"Compared to me, are you closer or further from a train line?",measuring,fa-solid fa-train,no
+measure3,Train Station,"Compared to me, are you closer or further from a train station (either Metro Train TrainLink or Tram)?",measuring,fa-solid fa-train,no
+measure4,Border A (Council),"Compared to me, are you closer or further from a Council border?",measuring,fa-solid fa-building-flag,no
+measure5,Border B (State Electorate),"Compared to me, are you closer or further from a State Electorate border?",measuring,fa-solid fa-building-flag,no
+measure6,Border C (Federal Electorate),"Compared to me, are you closer or further from a Federal Electorate border?",measuring,fa-solid fa-building-flag,no
+measure7,Body of Water,"Compared to me, are you closer or further from an enclosed body of water?",measuring,fa-solid fa-water,no
+measure8,Sea Level,"Compared to me, is your nearest body of water deeper than my nearest body of water?",measuring,fa-solid fa-water,no
+measure9,Ocean,"Compared to me, are you closer or further from the ocean?",measuring,fa-solid fa-water,no
+measure10,Road,"Compared to me, are you closer or further from the nearest large highway?",measuring,fa-solid fa-road,no
+measure11,National Park,"Compared to me, are you closer or further from a national park?",measuring,fa-solid fa-tree,no
+measure12,Amusement Park,"Compared to me, are you closer or further from an amusement park?",measuring,fa-solid fa-face-grin,no
+measure13,Zoo,"Compared to me, are you closer or further from a zoo?",measuring,fa-solid fa-otter,no
+measure14,Aquarium,"Compared to me, are you closer or further from an aquarium?",measuring,fa-solid fa-fish,no
+measure15,Golf Course,"Compared to me, are you closer or further from a golf course?",measuring,fa-solid fa-golf-ball-tee,no
+measure16,Museum,"Compared to me, are you closer or further from a museum?",measuring,fa-solid fa-building-columns,no
+measure17,Cinema,"Compared to me, are you closer or further from a cinema?",measuring,fa-solid fa-film,no
+measure18,Hosptial,"Compared to me, are you closer or further from a hospital?",measuring,fa-solid fa-hospital,no
+measure19,Library,"Compared to me, are you closer or further from a library?",measuring,fa-solid fa-book-open-reader,no
+measure20,Court House,"Compared to me, are you closer or further from a court house?",measuring,fa-solid fa-scale-balanced,no
+thermometer1,Thermometer,"I have now travelled 0.5km, am I hotter or colder?",thermometer,fa-solid fa-temperature-quarter,no
+thermometer2,Thermometer,"I have now travelled 5km, am I hotter or colder?",thermometer,fa-solid fa-temperature-quarter,no
+thermometer3,Thermometer,"I have now travelled 15km, am I hotter or colder?",thermometer,fa-solid fa-temperature-quarter,no
+radar1,Radar,Are you within 0.25km of me?,radar,fa-solid fa-crosshairs,no
+radar2,Radar,Are you within 0.5km of me?,radar,fa-solid fa-crosshairs,no
+radar3,Radar,Are you within 1km of me?,radar,fa-solid fa-crosshairs,no
+radar4,Radar,Are you within 3km of me?,radar,fa-solid fa-crosshairs,no
+radar5,Radar,Are you within 5km of me?,radar,fa-solid fa-crosshairs,no
+radar6,Radar,Are you within 10km of me?,radar,fa-solid fa-crosshairs,no
+radar7,Radar,Are you within 25km of me?,radar,fa-solid fa-crosshairs,no
+radar8,Radar,Are you within 50km of me?,radar,fa-solid fa-crosshairs,no
+radar9,Radar,Are you within 100km of me?,radar,fa-solid fa-crosshairs,no
+radar10,Radar,Are you within (your pick) km of me?,radar,fa-solid fa-crosshairs,no
+tent1,Museum,"Of all of the museums within 2km from me, which is the closest to you?",tentacles,fa-solid fa-building-columns,no
+tent2,Library,"Of all of the libraries within 2km from me, which is the closest to you?",tentacles,fa-solid fa-book-open-reader,no
+tent3,Cinema,"Of all of the cinemas within 2km from me, which is the closest to you?",tentacles,fa-solid fa-film,no
+tent4,Hospital,"Of all of the hospitals within 2km from me, which is the closest to you?",tentacles,fa-solid fa-hospital,no
+photo1,Trees,Take a photo of the tallest tree.,photos,fa-solid fa-tree,no
+photo2,The Sky,Take a photo of the sky.,photos,fa-solid fa-cloud,no
+photo3,Selfie,Take a photo of yourself.,photos,fa-solid fa-face-smile,no
+photo4,Widest Street,Take a photo of the widest street.,photos,fa-solid fa-road,no
+photo5,Tallest Building,Take a photo of the tallest building you can see from the station.,photos,fa-solid fa-building,no
+photo6,Any Building,Take a photo of the city buildings you can see from the station.,photos,fa-solid fa-city,no
+photo7,Tallest Structure,Take a photo of the tallest structure you can see from the station.,photos,fa-solid fa-industry,no
+photo8,Train Platform,Take a photo of the the train station platform.,photos,fa-solid fa-shop,no
+photo9,Strava Map Walk,Send a Strava map of yourself walking 0.5km in your hiding area.,photos,fa-brands fa-strava,no
+photo10,Two Buildings,Take a photo of any two buildings in your hiding area.,photos,fa-solid fa-building,no
+photo11,Resturant Interior,Take a photo of the nearest resturants interior.,photos,fa-solid fa-utensils,no
+photo12,Supermarket Aisle,Take a photo of a supermarket aisle in your hiding area.,photos,fa-solid fa-basket-shopping,no
+photo13,Church,Take a photo of a church in your hiding area.,photos,fa-solid fa-church,no
+photo14,Park,Take a photo of your nearest park in your hiding area.,photos,fa-solid fa-tree,no
