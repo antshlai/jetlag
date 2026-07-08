@@ -1,99 +1,99 @@
-﻿cardnumber,cardname,carddetail
-1,Discard 1 Draw 2,Discard one other card from your hand. Then draw and keep two cards from the deck.
-2,Discard 1 Draw 2,Discard one other card from your hand. Then draw and keep two cards from the deck.
-3,Discard 1 Draw 2,Discard one other card from your hand. Then draw and keep two cards from the deck.
-4,Discard 1 Draw 2,Discard one other card from your hand. Then draw and keep two cards from the deck.
-5,Discard 2 Draw 3,Discard two other cards from your hand. Then draw and keep three cards from the deck.
-6,Discard 2 Draw 3,Discard two other cards from your hand. Then draw and keep three cards from the deck.
-7,Discard 2 Draw 3,Discard two other cards from your hand. Then draw and keep three cards from the deck.
-8,Discard 2 Draw 3,Discard two other cards from your hand. Then draw and keep three cards from the deck.
-9,Duplicate Another Card,Play this card as a copy of any other card in your hand. They may be used to duplicate a time bonus at the end of your round.
-10,Duplicate Another Card,Play this card as a copy of any other card in your hand. They may be used to duplicate a time bonus at the end of your round.
-11,Move,"Discard your hand and send the hiders the location of your nearest public transit stop, that is not a bus stop. This card grants a 20 minute period to establish a new hiding zone somewhere else on the game map. The seekers are frozen and your hiding timer is paused until this new hiding period has concluded. This card cannot be played during the endgame."
-12,Randomise Question,Play instead of answering a question. A new unasked question from the same category is chosen at random which you answer instead.
-13,Randomise Question,Play instead of answering a question. A new unasked question from the same category is chosen at random which you answer instead.
-14,Randomise Question,Play instead of answering a question. A new unasked question from the same category is chosen at random which you answer instead.
-15,Randomise Question,Play instead of answering a question. A new unasked question from the same category is chosen at random which you answer instead.
-16,Veto Question,Play instead of answering a question. No answer is given and no reward is earnt.
-17,Veto Question,Play instead of answering a question. No answer is given and no reward is earnt.
-18,Veto Question,Play instead of answering a question. No answer is given and no reward is earnt.
-19,Veto Question,Play instead of answering a question. No answer is given and no reward is earnt.
-20,Time Bonus ,3 Minute Bonus
-21,Time Bonus ,3 Minute Bonus
-22,Time Bonus ,3 Minute Bonus
-23,Time Bonus ,3 Minute Bonus
-24,Time Bonus ,3 Minute Bonus
-25,Time Bonus ,3 Minute Bonus
-26,Time Bonus ,3 Minute Bonus
-27,Time Bonus ,3 Minute Bonus
-28,Time Bonus ,3 Minute Bonus
-29,Time Bonus ,3 Minute Bonus
-30,Time Bonus ,3 Minute Bonus
-31,Time Bonus ,3 Minute Bonus
-32,Time Bonus ,3 Minute Bonus
-33,Time Bonus ,3 Minute Bonus
-34,Time Bonus ,3 Minute Bonus
-35,Time Bonus ,3 Minute Bonus
-36,Time Bonus ,3 Minute Bonus
-37,Time Bonus ,3 Minute Bonus
-38,Time Bonus ,3 Minute Bonus
-39,Time Bonus ,3 Minute Bonus
-40,Time Bonus ,3 Minute Bonus
-41,Time Bonus ,3 Minute Bonus
-42,Time Bonus ,3 Minute Bonus
-43,Time Bonus ,3 Minute Bonus
-44,Time Bonus ,3 Minute Bonus
-45,Time Bonus ,6 Minute Bonus
-46,Time Bonus ,6 Minute Bonus
-47,Time Bonus ,6 Minute Bonus
-48,Time Bonus ,6 Minute Bonus
-49,Time Bonus ,6 Minute Bonus
-50,Time Bonus ,6 Minute Bonus
-51,Time Bonus ,6 Minute Bonus
-52,Time Bonus ,6 Minute Bonus
-53,Time Bonus ,6 Minute Bonus
-54,Time Bonus ,6 Minute Bonus
-55,Time Bonus ,6 Minute Bonus
-56,Time Bonus ,6 Minute Bonus
-57,Time Bonus ,6 Minute Bonus
-58,Time Bonus ,6 Minute Bonus
-59,Time Bonus ,6 Minute Bonus
-60,Time Bonus ,9 Minute Bonus
-61,Time Bonus ,9 Minute Bonus
-62,Time Bonus ,9 Minute Bonus
-63,Time Bonus ,9 Minute Bonus
-64,Time Bonus ,9 Minute Bonus
-65,Time Bonus ,9 Minute Bonus
-66,Time Bonus ,9 Minute Bonus
-67,Time Bonus ,9 Minute Bonus
-68,Time Bonus ,9 Minute Bonus
-69,Time Bonus ,9 Minute Bonus
-70,Time Bonus ,12 Minute Bonus
-71,Time Bonus ,12 Minute Bonus
-72,Time Bonus ,12 Minute Bonus
-73,Time Bonus ,18 Minute Bonus
-74,Time Bonus ,18 Minute Bonus
-75,Curse of the Bridge Troll,The seekers must ask their next question from under a bridge. '\n' CASTING COST: Seekers must be at least 8km from you.
-76,Curse of the Carin,You have one attempt to stack as many rocks on top of each other as you can in a freestanding tower. Each rock may only touch one other rock. Once you have added a rock to the tower  it may not be removed. Before adding another rock the tower must stand for at least five seconds. If at any point any rock other than the base rock touches the ground your tower has fallen. Once your tower falls tell the seekers how many rocks high your tower was when it last stood for five seconds. The seekers must then construct a rock tower of the same number of rocks under the same parameters before asking another question. If their tower falls they must restart. The rocks must be found in nature and both teams must disperse the rocks after building. '\n' CASTING COST: Build a rock tower.
-77,Curse of the Distant Cuisine,Find a restaurant within your zone that explicitly serves food from a specific foreign country. The seekers must visit a restaurant serving food from a country that is an equal or greater distance away before asking another question. '\n' CASTING COST: You must be at the restaurant.
-78,Curse of the Drained Brain,Choose three questions in different categories. The seekers cannot ask those questions for the rest of your run. '\n' CASTING COST: Discard your hand.
-79,Curse of the Egg Partner,The seekers must aquire an egg before asking another question. This egg is now treated as an official team member of the seekers. If any team members are abandoned or killed (defined as any crack in the egg) before the end of your run you are awarded an extra 45 minutes. This curse cannot be played during the endgame. '\n' CASTING COST: Discard two cards.
-80,Curse of the Endless Tumble,Seekers must roll a die at least 30 meters and have it land on a 5 or 6 before they can ask another question. The die must roll the full distance unaided  using only the momentum from the initial throw and gravity to travel the 30 meters. If the seekers accidently hit someone with a die you are awarded a 20 minute bonus. '\n' CASTING COST: Roll a die. If it's a 5 or a 6 this card has no effect.
-81,Curse of the Gambler's Feet,For the next fourty minutes seekers must roll a die before they take any steps in any direction. They may take that many steps before rolling again. '\n' CASTING COST: Roll a die. If it's an even number this curse has no effect.
-82,Curse of the Hidden Hangman,Before asking another question or boarding another form of transportation seekers must beat the hider in a game of hangman. To play the hider chooses a 5 letter word and the game ends after either a correct word guess or 7 wrong letter guesses. The hider must respond to all queries within 30 seconds. The seekers cannot challenge the hider for 10 minutes after a loss. After 2 losses the seekers are released. '\n' CASTING COST: Discard 2 cards.
-83,Curse of the Impressionable Consumer,Seekers must enter and gain admission (if applicable) to a location or buy a product that they saw an advertisement for before asking another question. '\n' This advertisement must be found out in the world '\n' CASTING COST: The seekers' next question is free.
-84,Curse of the Jammed Door,For the next hour whenever the seekers want to pass through a doorway into a building train business or other vehicle they must first roll 2 dice. If they do not roll a 7 or higher they cannot enter that space (including through other doorways.) Any given doorway can be re-attempted after 10 minutes. '\n' CASTING COST: Discard a card.
-85,Curse of the Labyrinth,Spend up to 20 minutes drawing a solvable maze and send a photo of it to the seekers. You cannot use the internet to research maze designs. The seekers must solve the maze before answering another question. '\n' CASTING COST: Draw a maze.
-86,Curse of the Lemon Phylactery,Before asking another question the seekers must each find a lemon and affix it to the outermost layer of their clothes or skin. If at any point one of these lemons is no longer touching a seeker you are awarded an extra 45 minutes. '\n' CASTING COST: Discard a powerup.
-87,Curse of the Luxury Car,Take a photo of a car. The seekers must take a photo of a more expensive car before asking another question. '\n' CASTING COST: A photo of a car.
-88,Curse of the Mediocre Travel Agent,Choose any publicly-accessible place within a 0.5 km of the seekers' current location. They cannot currently be on transit. They must go there and spend at least five minutes there. They must procure an object to bring you as a souvenir. If this souvenir is lost before they can give it to you - you are awarded an extra 45 minutes. '\n' CASTING COST: Their vacation destination must be further from you than their current location.
-89,Curse of the Overflowing Chalice,For the next three questions you may draw (not keep) an additional card when drawing from the hider deck. '\n' CASTING COST: Discard a card.
-90,Curse of the Ransom Note,The next question that the seekers ask must be composed of words and letters cut out of any printed material. The question must be coherent and include at least 5 words. '\n' CASTING COST: Spell out ''curse of the ransom note'' as a ransom note.
-91,Curse of the Right Turn,For the next fourty minutes the seekers can only turn right at any intersection. If at any point they find themselves in a dead end where they cannot continue forward or turn right for another 300 meters they may do a full 180. A right turn is defined as a road at any angle that veers to the right of the seekers. '\n' CASTING COST: Discard a curse and one other card.
-92,Curse of Spotty Memory,For the rest of your run one random category of questions will be disabled at all times. After the curse is played  seekers must roll a die to determine the category of questions to be disabled. This category remains disabled until the next question is asked at which point a die is rolled again to choose a new category. The same category can be disabled multiple times in a row. '\n' CASTING COST: Discard a time bonus card.
-93,Curse of the Bird Guide,You have one chance to film a bird for as long as possible up to 10 minutes straight. If at any point the bird leaves the frame your timer is stopped. The seekers must then film a bird for the same amount of time or longer before asking another question. '\n' CASTING COST: Film a bird.
-94,Curse of the Unguided Tourist,Send the seekers an unzoomed Google Street View image from a street within 200 meters of where they are now. The shot has to be parallel to the horizon and include at least one human-built structure other than a road. Without using the internet for research  they must find what you sent them in real life before they can use transportation or ask another question. They must send a picture to the hider for verification. '\n' CASTING COST: Seekers must be outside.
-95,Curse of the U-Turn,The seekers must disembark their current mode of transportation at the next station (as long as that station is serviced by another form of transit in the next 0.5 hours). '\n' CASTING COST: Seekers must be heading the wrong way - meaning that their next station is further from you than they are.
-96,Curse of the Urban Explorer,For the rest of your run seekers cannot ask questions when they are on transit or in a transit station. '\n' CASTING COST: Discard 2 cards.
-97,Curse of the Water Weight,The seekers must acquire and carry at least 2 litres of liquid per seeker for the rest of your run. They cannot ask another question until they have aquired the liquid. The water may be distributed between seekers as they see fit. If the liquid is lost or abandoned at any point after acquisition the hider is awarded a 30 minute bonus. '\n' CASTING COST: Seekers must be within 300 meters of a body of water.
-98,Curse of the Zoologist,Take a photo of a wild fish bird mammal reptile amphibian or bug. The seekers must take a picture of a wild animal in the same category before asking another question. '\n' CASTING COST: A photo of an animal.
+cardnumber,cardname,carddetail,cardicon
+1,Discard 1 Draw 2,Discard one other card from your hand. Then draw and keep two cards from the deck.,fa-solid fa-file-circle-minus
+2,Discard 1 Draw 2,Discard one other card from your hand. Then draw and keep two cards from the deck.,fa-solid fa-file-circle-minus
+3,Discard 1 Draw 2,Discard one other card from your hand. Then draw and keep two cards from the deck.,fa-solid fa-file-circle-minus
+4,Discard 1 Draw 2,Discard one other card from your hand. Then draw and keep two cards from the deck.,fa-solid fa-file-circle-minus
+5,Discard 2 Draw 3,Discard two other cards from your hand. Then draw and keep three cards from the deck.,fa-solid fa-file-circle-minus
+6,Discard 2 Draw 3,Discard two other cards from your hand. Then draw and keep three cards from the deck.,fa-solid fa-file-circle-minus
+7,Discard 2 Draw 3,Discard two other cards from your hand. Then draw and keep three cards from the deck.,fa-solid fa-file-circle-minus
+8,Discard 2 Draw 3,Discard two other cards from your hand. Then draw and keep three cards from the deck.,fa-solid fa-file-circle-minus
+9,Duplicate Another Card,Play this card as a copy of any other card in your hand. They may be used to duplicate a time bonus at the end of your round.,fa-solid fa-copy
+10,Duplicate Another Card,Play this card as a copy of any other card in your hand. They may be used to duplicate a time bonus at the end of your round.,fa-solid fa-copy
+11,Move,"Discard your hand and send the hiders the location of your nearest public transit stop, that is not a bus stop. This card grants a 20 minute period to establish a new hiding zone somewhere else on the game map. The seekers are frozen and your hiding timer is paused until this new hiding period has concluded. This card cannot be played during the endgame.",fa-solid fa-map-location-dot
+12,Randomise Question,Play instead of answering a question. A new unasked question from the same category is chosen at random which you answer instead.,fa-solid fa-dice
+13,Randomise Question,Play instead of answering a question. A new unasked question from the same category is chosen at random which you answer instead.,fa-solid fa-dice
+14,Randomise Question,Play instead of answering a question. A new unasked question from the same category is chosen at random which you answer instead.,fa-solid fa-dice
+15,Randomise Question,Play instead of answering a question. A new unasked question from the same category is chosen at random which you answer instead.,fa-solid fa-dice
+16,Veto Question,Play instead of answering a question. No answer is given and no reward is earnt.,fa-solid fa-ban
+17,Veto Question,Play instead of answering a question. No answer is given and no reward is earnt.,fa-solid fa-ban
+18,Veto Question,Play instead of answering a question. No answer is given and no reward is earnt.,fa-solid fa-ban
+19,Veto Question,Play instead of answering a question. No answer is given and no reward is earnt.,fa-solid fa-ban
+20,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+21,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+22,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+23,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+24,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+25,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+26,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+27,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+28,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+29,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+30,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+31,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+32,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+33,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+34,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+35,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+36,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+37,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+38,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+39,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+40,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+41,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+42,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+43,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+44,Time Bonus ,3 Minute Bonus,fa-solid fa-stopwatch
+45,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+46,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+47,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+48,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+49,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+50,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+51,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+52,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+53,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+54,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+55,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+56,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+57,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+58,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+59,Time Bonus ,6 Minute Bonus,fa-solid fa-stopwatch
+60,Time Bonus ,9 Minute Bonus,fa-solid fa-stopwatch
+61,Time Bonus ,9 Minute Bonus,fa-solid fa-stopwatch
+62,Time Bonus ,9 Minute Bonus,fa-solid fa-stopwatch
+63,Time Bonus ,9 Minute Bonus,fa-solid fa-stopwatch
+64,Time Bonus ,9 Minute Bonus,fa-solid fa-stopwatch
+65,Time Bonus ,9 Minute Bonus,fa-solid fa-stopwatch
+66,Time Bonus ,9 Minute Bonus,fa-solid fa-stopwatch
+67,Time Bonus ,9 Minute Bonus,fa-solid fa-stopwatch
+68,Time Bonus ,9 Minute Bonus,fa-solid fa-stopwatch
+69,Time Bonus ,9 Minute Bonus,fa-solid fa-stopwatch
+70,Time Bonus ,12 Minute Bonus,fa-solid fa-stopwatch
+71,Time Bonus ,12 Minute Bonus,fa-solid fa-stopwatch
+72,Time Bonus ,12 Minute Bonus,fa-solid fa-stopwatch
+73,Time Bonus ,18 Minute Bonus,fa-solid fa-stopwatch
+74,Time Bonus ,18 Minute Bonus,fa-solid fa-stopwatch
+75,Curse of the Bridge Troll,The seekers must ask their next question from under a bridge. '\n' CASTING COST: Seekers must be at least 8km from you.,fa-solid fa-book-skull
+76,Curse of the Carin,You have one attempt to stack as many rocks on top of each other as you can in a freestanding tower. Each rock may only touch one other rock. Once you have added a rock to the tower  it may not be removed. Before adding another rock the tower must stand for at least five seconds. If at any point any rock other than the base rock touches the ground your tower has fallen. Once your tower falls tell the seekers how many rocks high your tower was when it last stood for five seconds. The seekers must then construct a rock tower of the same number of rocks under the same parameters before asking another question. If their tower falls they must restart. The rocks must be found in nature and both teams must disperse the rocks after building. '\n' CASTING COST: Build a rock tower.,fa-solid fa-book-skull
+77,Curse of the Distant Cuisine,Find a restaurant within your zone that explicitly serves food from a specific foreign country. The seekers must visit a restaurant serving food from a country that is an equal or greater distance away before asking another question. '\n' CASTING COST: You must be at the restaurant.,fa-solid fa-book-skull
+78,Curse of the Drained Brain,Choose three questions in different categories. The seekers cannot ask those questions for the rest of your run. '\n' CASTING COST: Discard your hand.,fa-solid fa-book-skull
+79,Curse of the Egg Partner,The seekers must aquire an egg before asking another question. This egg is now treated as an official team member of the seekers. If any team members are abandoned or killed (defined as any crack in the egg) before the end of your run you are awarded an extra 45 minutes. This curse cannot be played during the endgame. '\n' CASTING COST: Discard two cards.,fa-solid fa-book-skull
+80,Curse of the Endless Tumble,Seekers must roll a die at least 30 meters and have it land on a 5 or 6 before they can ask another question. The die must roll the full distance unaided  using only the momentum from the initial throw and gravity to travel the 30 meters. If the seekers accidently hit someone with a die you are awarded a 20 minute bonus. '\n' CASTING COST: Roll a die. If it's a 5 or a 6 this card has no effect.,fa-solid fa-book-skull
+81,Curse of the Gambler's Feet,For the next fourty minutes seekers must roll a die before they take any steps in any direction. They may take that many steps before rolling again. '\n' CASTING COST: Roll a die. If it's an even number this curse has no effect.,fa-solid fa-book-skull
+82,Curse of the Hidden Hangman,Before asking another question or boarding another form of transportation seekers must beat the hider in a game of hangman. To play the hider chooses a 5 letter word and the game ends after either a correct word guess or 7 wrong letter guesses. The hider must respond to all queries within 30 seconds. The seekers cannot challenge the hider for 10 minutes after a loss. After 2 losses the seekers are released. '\n' CASTING COST: Discard 2 cards.,fa-solid fa-book-skull
+83,Curse of the Impressionable Consumer,Seekers must enter and gain admission (if applicable) to a location or buy a product that they saw an advertisement for before asking another question. '\n' This advertisement must be found out in the world '\n' CASTING COST: The seekers' next question is free.,fa-solid fa-book-skull
+84,Curse of the Jammed Door,For the next hour whenever the seekers want to pass through a doorway into a building train business or other vehicle they must first roll 2 dice. If they do not roll a 7 or higher they cannot enter that space (including through other doorways.) Any given doorway can be re-attempted after 10 minutes. '\n' CASTING COST: Discard a card.,fa-solid fa-book-skull
+85,Curse of the Labyrinth,Spend up to 20 minutes drawing a solvable maze and send a photo of it to the seekers. You cannot use the internet to research maze designs. The seekers must solve the maze before answering another question. '\n' CASTING COST: Draw a maze.,fa-solid fa-book-skull
+86,Curse of the Lemon Phylactery,Before asking another question the seekers must each find a lemon and affix it to the outermost layer of their clothes or skin. If at any point one of these lemons is no longer touching a seeker you are awarded an extra 45 minutes. '\n' CASTING COST: Discard a powerup.,fa-solid fa-book-skull
+87,Curse of the Luxury Car,Take a photo of a car. The seekers must take a photo of a more expensive car before asking another question. '\n' CASTING COST: A photo of a car.,fa-solid fa-book-skull
+88,Curse of the Mediocre Travel Agent,Choose any publicly-accessible place within a 0.5 km of the seekers' current location. They cannot currently be on transit. They must go there and spend at least five minutes there. They must procure an object to bring you as a souvenir. If this souvenir is lost before they can give it to you - you are awarded an extra 45 minutes. '\n' CASTING COST: Their vacation destination must be further from you than their current location.,fa-solid fa-book-skull
+89,Curse of the Overflowing Chalice,For the next three questions you may draw (not keep) an additional card when drawing from the hider deck. '\n' CASTING COST: Discard a card.,fa-solid fa-book-skull
+90,Curse of the Ransom Note,The next question that the seekers ask must be composed of words and letters cut out of any printed material. The question must be coherent and include at least 5 words. '\n' CASTING COST: Spell out ''curse of the ransom note'' as a ransom note.,fa-solid fa-book-skull
+91,Curse of the Right Turn,For the next fourty minutes the seekers can only turn right at any intersection. If at any point they find themselves in a dead end where they cannot continue forward or turn right for another 300 meters they may do a full 180. A right turn is defined as a road at any angle that veers to the right of the seekers. '\n' CASTING COST: Discard a curse and one other card.,fa-solid fa-book-skull
+92,Curse of Spotty Memory,For the rest of your run one random category of questions will be disabled at all times. After the curse is played  seekers must roll a die to determine the category of questions to be disabled. This category remains disabled until the next question is asked at which point a die is rolled again to choose a new category. The same category can be disabled multiple times in a row. '\n' CASTING COST: Discard a time bonus card.,fa-solid fa-book-skull
+93,Curse of the Bird Guide,You have one chance to film a bird for as long as possible up to 10 minutes straight. If at any point the bird leaves the frame your timer is stopped. The seekers must then film a bird for the same amount of time or longer before asking another question. '\n' CASTING COST: Film a bird.,fa-solid fa-book-skull
+94,Curse of the Unguided Tourist,Send the seekers an unzoomed Google Street View image from a street within 200 meters of where they are now. The shot has to be parallel to the horizon and include at least one human-built structure other than a road. Without using the internet for research  they must find what you sent them in real life before they can use transportation or ask another question. They must send a picture to the hider for verification. '\n' CASTING COST: Seekers must be outside.,fa-solid fa-book-skull
+95,Curse of the U-Turn,The seekers must disembark their current mode of transportation at the next station (as long as that station is serviced by another form of transit in the next 0.5 hours). '\n' CASTING COST: Seekers must be heading the wrong way - meaning that their next station is further from you than they are.,fa-solid fa-book-skull
+96,Curse of the Urban Explorer,For the rest of your run seekers cannot ask questions when they are on transit or in a transit station. '\n' CASTING COST: Discard 2 cards.,fa-solid fa-book-skull
+97,Curse of the Water Weight,The seekers must acquire and carry at least 2 litres of liquid per seeker for the rest of your run. They cannot ask another question until they have aquired the liquid. The water may be distributed between seekers as they see fit. If the liquid is lost or abandoned at any point after acquisition the hider is awarded a 30 minute bonus. '\n' CASTING COST: Seekers must be within 300 meters of a body of water.,fa-solid fa-book-skull
+98,Curse of the Zoologist,Take a photo of a wild fish bird mammal reptile amphibian or bug. The seekers must take a picture of a wild animal in the same category before asking another question. '\n' CASTING COST: A photo of an animal.,fa-solid fa-book-skull
